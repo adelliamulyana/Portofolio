@@ -20,7 +20,7 @@
   - Curah hujan dan kepadatan penduduk tidak signifikan secara statistik dalam model count data ini.
   - Seluruh variabel bebas terbebas dari multikolinearitas ($VIF < 10$).
 * **Tech Stack:** Python, Statsmodels, Pandas, Matplotlib.
-* 🔗 **[Lihat Detail Proyek & Kode]()**
+* 🔗 **[Lihat Detail Proyek & Kode](https://github.com/adelliamulyana/Project_Analisis_Faktor_Penyebab_Banjir.git)**
 
 ---
 
