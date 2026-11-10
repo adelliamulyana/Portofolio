@@ -32,6 +32,6 @@
   - Proteksi otomatis dari permutasi identitas agar *ciphertext* tidak persis sama dengan *plaintext*.
   - Dekripsi presisi tinggi menggunakan invers permutasi $\theta^{-1}$.
 * **Tech Stack:** Python (Pure Python / Standard Libraries).
-* 🔗 **[Lihat Detail Proyek & Kode]()**
+* 🔗 **[Lihat Detail Proyek & Kode](https://github.com/adelliamulyana/Project_Enkripsi_Deskripsi.git)**
 
 ---
