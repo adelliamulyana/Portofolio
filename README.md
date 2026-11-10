@@ -8,7 +8,7 @@
   - Sentimen berita harian memiliki korelasi linear yang lemah terhadap *daily return* (BTC $r=0.09$, ETH $r=-0.03$), menunjukkan pasar lebih didorong oleh likuiditas makroekonomi.
   - Hasil *Lag-1 Analysis* menunjukkan pasar kripto sangat efisien dalam menyerap informasi publik tanpa jeda hari berikutnya.
 * **Tech Stack:** Python, Pandas, TextBlob, Seaborn, yfinance.
-* 🔗 **[Lihat Detail Proyek & Kode]()**
+* 🔗 **[Lihat Detail Proyek & Kode](https://github.com/adelliamulyana/crypto_sentiment_market_analysis.git)**
 
 ---
 
