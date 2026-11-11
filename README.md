@@ -1,5 +1,5 @@
 # Portofolio
-## 📂 Ringkasan Proyek Utama
+## 📂 Ringkasan Proyek Utama (DUMMY PROJECT)
 
 ### 1. 📈 Crypto Market & Sentiment Dynamics Analysis (BTC vs. ETH)
 * **Fokus:** Behavioral Finance, Financial Data Analysis, NLP Sentiment Analysis.
